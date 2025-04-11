@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-        <h1>hello</h1>
+        <h1>hello  jkhkuhk</h1>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
